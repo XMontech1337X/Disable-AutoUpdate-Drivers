@@ -1,2 +1,1 @@
-# General
-Disable Auto Update And Install Drivers in Windows 11
+# Disable Auto Update And Install Drivers in Windows 11
