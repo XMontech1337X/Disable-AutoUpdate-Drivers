@@ -1,4 +1,6 @@
 @echo off
+:: Created By XMontech1337X
+:: Version 1.0
 echo Enabling Automatic Drivers Update And Install...
 Reg.exe delete "HKLM\Software\Policies\Microsoft\Windows\DriverSearching" /v "SearchOrderConfig" /f
 Reg.exe delete "HKLM\SOFTWARE\Policies\Microsoft\Windows\DriverSearching" /v "DontSearchWindowsUpdate" /f
